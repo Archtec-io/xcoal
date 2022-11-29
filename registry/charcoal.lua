@@ -41,9 +41,7 @@ xcoal.register('charcoal_block', {
     },
     additional_recipes = {
         ['xcoal:charcoal 9'] = {
-            {'x', '', ''},
-            {'',  '', ''},
-            {'',  '', ''}
+            {'x'}
         }
     }
 })
@@ -77,9 +75,7 @@ xcoal.register('compressed_charcoal_block', {
     },
     additional_recipes = {
         ['xcoal:charcoal_block 9'] = {
-            {'x', '', ''},
-            {'',  '', ''},
-            {'',  '', ''}
+            {'x'}
         }
     }
 })
